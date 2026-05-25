@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/Chris79OG?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/Chris79OG?tab=stars">Research Radar</a> ·`n  <a href="mailto:hello@chris79.dev">hello@chris79.dev</a>
+  <a href="https://github.com/Chris79OG?tab=stars">Research Radar</a> ·
+  <a href="mailto:hello@chris79.dev">hello@chris79.dev</a>
 </p>
 
 ---
