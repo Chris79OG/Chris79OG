@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile.png" alt="Chris79 profile emblem" width="220" />
-</p>
-
 <h1 align="center">Chris79</h1>
 
 <p align="center">
